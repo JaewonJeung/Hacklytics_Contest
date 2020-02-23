@@ -1,9 +1,9 @@
 # Hacklytics_Contest
 
 Potential Models:
-SVM\n
-Random Forest
-Cluster KNN Mean?
+* SVM
+* Random Forest
+* Cluster KNN Mean?
 
 Prediction: parent_incident_type
 
