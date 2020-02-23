@@ -10,7 +10,8 @@ Prediction:
 
 Features:
 * day_of_week
-* incident_datetime (split it month and year)
+* incident_month
+* incident_year
 * hour_of_day
 * longitude
 * latitude
