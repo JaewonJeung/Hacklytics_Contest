@@ -5,11 +5,12 @@ Potential Models:
 * Random Forest
 * Cluster KNN Mean?
 
-Prediction: parent_incident_type
+Prediction:
+* parent_incident_type
 
 Features:
--day_of_week
--incident_datetime (split it month and year)
--hour_of_day
--longitude
--latitude
+* day_of_week
+* incident_datetime (split it month and year)
+* hour_of_day
+* longitude
+* latitude
