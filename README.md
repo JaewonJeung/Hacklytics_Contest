@@ -1,7 +1,7 @@
 # Hacklytics_Contest
 
 Potential Models:
-SVM
+SVM\n
 Random Forest
 Cluster KNN Mean?
 
